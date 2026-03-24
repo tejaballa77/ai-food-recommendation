@@ -1,0 +1,75 @@
+[
+  {
+    "restaurant": "Healthy Bites",
+    "items": [
+      {"name": "Grilled Chicken Salad", "price": 250},
+      {"name": "Veggie Salad", "price": 180},
+      {"name": "Fruit Bowl", "price": 120},
+      {"name": "Boiled Vegetables", "price": 150},
+      {"name": "Oats Porridge", "price": 100}
+    ]
+  },
+  {
+    "restaurant": "Spicy Hub",
+    "items": [
+      {"name": "Chicken Biryani", "price": 220},
+      {"name": "Paneer Butter Masala", "price": 200},
+      {"name": "Fried Rice", "price": 150},
+      {"name": "Chilli Chicken", "price": 210},
+      {"name": "Masala Dosa", "price": 120}
+    ]
+  },
+  {
+    "restaurant": "Fitness Kitchen",
+    "items": [
+      {"name": "Grilled Fish", "price": 300},
+      {"name": "Protein Bowl", "price": 280},
+      {"name": "Quinoa Salad", "price": 260},
+      {"name": "Brown Rice with Veggies", "price": 200}
+    ]
+  },
+  {
+    "restaurant": "Street Food Corner",
+    "items": [
+      {"name": "Pani Puri", "price": 50},
+      {"name": "Samosa", "price": 40},
+      {"name": "Pakora", "price": 60},
+      {"name": "Vada Pav", "price": 70}
+    ]
+  },
+  {
+    "restaurant": "South Indian Delight",
+    "items": [
+      {"name": "Idli", "price": 60},
+      {"name": "Plain Dosa", "price": 80},
+      {"name": "Upma", "price": 70},
+      {"name": "Curd Rice", "price": 90}
+    ]
+  },
+  {
+    "restaurant": "Cold & Desserts",
+    "items": [
+      {"name": "Ice Cream", "price": 120},
+      {"name": "Chocolate Cake", "price": 150},
+      {"name": "Milkshake", "price": 130},
+      {"name": "Cold Coffee", "price": 140}
+    ]
+  },
+  {
+    "restaurant": "Home Style Meals",
+    "items": [
+      {"name": "Dal Khichdi", "price": 140},
+      {"name": "Chapati with Veg Curry", "price": 150},
+      {"name": "Steamed Rice with Dal", "price": 130},
+      {"name": "Vegetable Soup", "price": 110}
+    ]
+  },
+  {
+  "restaurant": "Healthy Bites",
+  "items": [
+    {"name": "Oats Porridge", "price": 100, "meal": "breakfast"},
+    {"name": "Veggie Salad", "price": 180, "meal": "lunch"},
+    {"name": "Grilled Chicken", "price": 250, "meal": "dinner"}
+    ]
+  }
+]

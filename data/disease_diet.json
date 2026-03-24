@@ -1,0 +1,43 @@
+{
+  "diabetes": {
+    "avoid": ["sugar", "sweet", "rice", "fried"],
+    "prefer": ["grilled", "salad", "low_carb", "protein"]
+  },
+  "hypertension": {
+    "avoid": ["salt", "sodium", "processed"],
+    "prefer": ["low_sodium", "vegetables", "fruits"]
+  },
+  "cholesterol": {
+    "avoid": ["fried", "butter", "oil"],
+    "prefer": ["grilled", "fiber", "lean"]
+  },
+
+  "fever": {
+    "avoid": ["fried", "spicy", "junk"],
+    "prefer": ["soup", "boiled", "light", "liquid"]
+  },
+  "cold": {
+    "avoid": ["cold drinks", "ice cream", "fried"],
+    "prefer": ["hot", "soup", "herbal", "warm"]
+  },
+  "cough": {
+    "avoid": ["cold", "fried", "spicy"],
+    "prefer": ["warm", "liquid", "soup", "honey"]
+  },
+  "weight_loss": {
+    "avoid": ["fried", "junk", "sugar"],
+    "prefer": ["salad", "low_carb", "protein", "grilled"]
+  },
+  "weight_gain": {
+    "avoid": ["low_calorie"],
+    "prefer": ["high_calorie", "protein", "healthy_fats"]
+  },
+  "acidity": {
+    "avoid": ["spicy", "fried", "citrus"],
+    "prefer": ["boiled", "light", "low_spice"]
+  },
+  "anemia": {
+    "avoid": ["junk"],
+    "prefer": ["iron", "leafy", "protein"]
+  }
+}
